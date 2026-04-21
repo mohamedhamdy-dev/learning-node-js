@@ -1,0 +1,16 @@
+{
+  "name": "learning-node-js",
+  "version": "1.0.0",
+  "description": "just learning",
+  "license": "ISC",
+  "author": "mohamed hamdy",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
